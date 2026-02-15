@@ -1,9 +1,12 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/next";
+
 
 export const metadata: Metadata = {
   title: "Deisy López - Portfolio",
-  description: "Diseño Visual / Portfolio - Creando experiencias visuales únicas",
+  description:
+    "Diseño Visual / Portfolio - Creando experiencias visuales únicas",
 };
 
 export default function RootLayout({
@@ -18,6 +21,8 @@ export default function RootLayout({
       </head>
       <body className="antialiased">
         {children}
+        <Analytics />
+
       </body>
     </html>
   );
