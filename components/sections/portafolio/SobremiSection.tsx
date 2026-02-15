@@ -12,7 +12,7 @@ export default function SobremiSection() {
           <p className="text-lg text-gray-300 mb-6">
             Soy{" "}
             <span className="text-[#f425af] font-bold">Deisy Yurany Lopez</span>
-            , estudiante de Diseno Grafico en la Universidad Catolica Luis
+            , estudiante de Diseño Grafico en la Universidad Catolica Luis
             Amigo.
           </p>
           <p className="text-lg text-gray-300 mb-6">
@@ -20,7 +20,7 @@ export default function SobremiSection() {
             cambio y excelentes relaciones interpersonales. Cuento con
             experiencia en{" "}
             <span className="text-[#fbef2c] font-bold">
-              diseno e ilustracion
+              Diseño e ilustracion
             </span>
             , destacandome por el cumplimiento de tareas y trabajos
             preestablecidos.

@@ -11,7 +11,7 @@ export default function HeroSection() {
         <div className="relative z-10 px-6 max-w-7xl w-full">
           <Reveal animation="fadeIn" delay={200}>
             <h1 className="text-white text-5xl md:text-8xl font-bold leading-tight tracking-tighter">
-              DISENO / <span className="text-[#f425af] italic">VISUAL</span> /{" "}
+              DISEÑO / <span className="text-[#f425af] italic">VISUAL</span> /{" "}
               <br />
               <span className="text-[#fbef2c] border-4 border-[#fbef2c] px-4 inline-block">
                 PORTFOLIO
@@ -32,7 +32,7 @@ export default function HeroSection() {
       <div className="bg-[#f425af] py-4 border-y-4 border-[#22101c] overflow-hidden transform rotate-1">
         <div className="flex gap-8 items-center animate-marquee-infinite">
           <span className="text-3xl md:text-4xl font-black uppercase italic text-[#22101c] whitespace-nowrap">
-            Diseno Grafico
+            Diseño Grafico
           </span>
           <Camera className="w-12 h-12 text-[#22101c] flex-shrink-0" />
           <span className="text-3xl md:text-4xl font-black uppercase italic text-[#22101c] whitespace-nowrap">
@@ -40,7 +40,7 @@ export default function HeroSection() {
           </span>
           <Palette className="w-12 h-12 text-[#22101c] flex-shrink-0" />
           <span className="text-3xl md:text-4xl font-black uppercase italic text-[#22101c] whitespace-nowrap">
-            Diseno Web
+            Diseño Web
           </span>
           <Globe className="w-12 h-12 text-[#22101c] flex-shrink-0" />
           <span className="text-3xl md:text-4xl font-black uppercase italic text-[#22101c] whitespace-nowrap">
@@ -49,7 +49,7 @@ export default function HeroSection() {
           <Camera className="w-12 h-12 text-[#22101c] flex-shrink-0" />
 
           <span className="text-3xl md:text-4xl font-black uppercase italic text-[#22101c] whitespace-nowrap">
-            Diseno Grafico
+            Diseño Grafico
           </span>
           <Camera className="w-12 h-12 text-[#22101c] flex-shrink-0" />
           <span className="text-3xl md:text-4xl font-black uppercase italic text-[#22101c] whitespace-nowrap">
@@ -57,7 +57,7 @@ export default function HeroSection() {
           </span>
           <Palette className="w-12 h-12 text-[#22101c] flex-shrink-0" />
           <span className="text-3xl md:text-4xl font-black uppercase italic text-[#22101c] whitespace-nowrap">
-            Diseno Web
+            Diseño Web
           </span>
           <Globe className="w-12 h-12 text-[#22101c] flex-shrink-0" />
           <span className="text-3xl md:text-4xl font-black uppercase italic text-[#22101c] whitespace-nowrap">

@@ -81,7 +81,7 @@ export default function Footer() {
             Hablemos <Zap className="w-6 h-6 md:w-10 md:h-10 flex-shrink-0" />
           </span>
           <span className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black uppercase italic text-white whitespace-nowrap flex items-center gap-3 md:gap-4">
-            Diseno con Deisy{" "}
+            Diseño con Deisy{" "}
             <Palette className="w-6 h-6 md:w-10 md:h-10 flex-shrink-0" />
           </span>
           <span className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black uppercase italic text-white whitespace-nowrap flex items-center gap-3 md:gap-4">
@@ -94,7 +94,7 @@ export default function Footer() {
             Hablemos <Zap className="w-6 h-6 md:w-10 md:h-10 flex-shrink-0" />
           </span>
           <span className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black uppercase italic text-white whitespace-nowrap flex items-center gap-3 md:gap-4">
-            Diseno con Deisy{" "}
+            Diseño con Deisy{" "}
             <Palette className="w-6 h-6 md:w-10 md:h-10 flex-shrink-0" />
           </span>
           <span className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black uppercase italic text-white whitespace-nowrap flex items-center gap-3 md:gap-4">
